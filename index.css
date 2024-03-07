@@ -1,0 +1,85 @@
+#header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 90vh;
+    justify-content: center;
+    width: 90%;
+    /* gap: 20px; */
+    /* grid-template-columns: repeat(5,10%); */
+
+}
+
+#header1, #header2,#header3,#header4,#header5,#header6 ,#header7,#header8 ,#header9 ,#header10 ,#header11 ,#header12, #header13, #header14, #header15, #header16{
+    width: 100%;
+    height: 200px;
+    border: 2px dashed black;
+}
+
+#header1{
+    background-color: blue;
+}
+
+#header2{
+    background-color: red;
+}
+
+#header3{
+    background-color: yellow;
+}
+
+#header4{
+    background-color: purple;
+}
+
+#header5{
+    background-color: rosybrown;
+    /* animation:circle 20s 2s 1s ; */
+}
+#header6{
+
+    background-color: yellowgreen;
+}
+
+#header7{
+    background-color: blue;
+}
+
+#header8{
+    background-color: red;
+}
+
+#header8{
+    background-color: yellow;
+}
+
+#header9{
+    background-color: purple;
+}
+
+#header10{
+    background-color: rosybrown;
+    /* animation:circle 20s 2s 1s ; */
+}
+#header11{
+
+    background-color: yellowgreen;
+}
+#header12{
+    background-color: blue;
+}
+
+#header13{
+    background-color: red;
+}
+
+
+#header14{
+    background-color: purple;
+}
+
+#header16{
+
+    background-color: yellowgreen;
+}

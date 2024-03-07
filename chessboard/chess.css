@@ -1,0 +1,370 @@
+body{
+    background-color: blue;
+}
+
+#board{
+    display: grid;
+    grid-template-columns: repeat(8,100%);
+    width: 100px;
+    height: 13.5vh;
+    margin-left: 14%;
+}
+#header1{
+    background-color:white;
+    width: 100px;
+    height: 12.5vh;
+}
+#header2{
+    background-color:black;
+    width: 100px;
+    height: 12.5vh;
+}
+
+#header3{
+    background-color: white;
+    width: 100px;
+    height: 12.5vh;
+}
+#header4{
+    background-color:black;
+    width: 100px;
+    height: 12.5vh;
+}
+
+
+#header5{
+    background-color: white;
+    width: 100px;
+    height: 12.5vh;
+}
+#header6{
+    background-color:black;
+    width: 100px;
+    height: 12.5vh;
+}
+
+#header7{
+    background-color: white;
+    width: 100px;
+    height: 12.5vh;
+}
+#header8{
+    background-color:black;
+    width: 100px;
+    height: 12.5vh;
+}
+
+#header9{
+    background-color: black;
+    width: 100px;
+    height: 12.5vh;
+}
+#header10{
+    background-color:white;
+    width: 100px;
+    height: 12.5vh;
+}
+
+#header11{
+    background-color: black;
+    width: 100px;
+    height: 12.5vh;
+}
+#header12{
+    background-color:white;
+    width: 100px;
+    height: 12.5vh;
+}
+
+
+#header13{
+    background-color: black;
+    width: 100px;
+    height: 12.5vh;
+}
+#header14{
+    background-color:white;
+    width: 100px;
+    height: 12.5vh;
+}
+
+#header15{
+    background-color: black;
+    width: 100px;
+    height: 12.5vh;
+}
+#header16{
+    background-color:white;
+    width: 100px;
+    height: 12.5vh;
+}
+
+#header17{
+    background-color: white;
+    width: 100px;
+    height: 12.5vh;
+}
+#header18{
+    background-color:black;
+    width: 100px;
+    height: 12.5vh;
+}
+
+#header19{
+    background-color: white;
+    width: 100px;
+    height: 12.5vh;
+}
+#header20{
+    background-color:black;
+    width: 100px;
+    height: 12.5vh;
+}
+
+
+#header21{
+    background-color: white;
+    width: 100px;
+    height: 12.5vh;
+}
+#header22{
+    background-color:black;
+    width: 100px;
+    height: 12.5vh;
+}
+
+#header23{
+    background-color: white;
+    width: 100px;
+    height: 12.5vh;
+}
+#header24{
+    background-color:black;
+    width: 100px;
+    height: 12.5vh;
+}
+
+#header25{
+    background-color: black;
+    width: 100px;
+    height: 12.5vh;
+}
+#header26{
+    background-color:white;
+    width: 100px;
+    height: 12.5vh;
+}
+
+#header27{
+    background-color: black;
+    width: 100px;
+    height: 12.5vh;
+}
+#header28{
+    background-color:white;
+    width: 100px;
+    height: 12.5vh;
+}
+
+
+#header29{
+    background-color: black;
+    width: 100px;
+    height: 12.5vh;
+}
+#header30{
+    background-color:white;
+    width: 100px;
+    height: 12.5vh;
+}
+
+#header31{
+    background-color: black;
+    width: 100px;
+    height: 12.5vh;
+}
+#header32{
+    background-color:white;
+    width: 100px;
+    height: 12.5vh;
+}
+
+#header33{
+    background-color: white;
+    width: 100px;
+    height: 12.5vh;
+}
+#header34{
+    background-color:black;
+    width: 100px;
+    height: 12.5vh;
+}
+
+#header35{
+    background-color: white;
+    width: 100px;
+    height: 12.5vh;
+}
+#header36{
+    background-color:black;
+    width: 100px;
+    height: 12.5vh;
+}
+
+
+#header37{
+    background-color: white;
+    width: 100px;
+    height: 12.5vh;
+}
+#header38{
+    background-color:black;
+    width: 100px;
+    height: 12.5vh;
+}
+
+#header39{
+    background-color: white;
+    width: 100px;
+    height: 12.5vh;
+}
+#header40{
+    background-color:black;
+    width: 100px;
+    height: 12.5vh;
+}
+
+#header41{
+    background-color: black;
+    width: 100px;
+    height: 12.5vh;
+}
+#header42{
+    background-color:white;
+    width: 100px;
+    height: 12.5vh;
+}
+
+#header43{
+    background-color: black;
+    width: 100px;
+    height: 12.5vh;
+}
+#header44{
+    background-color:white;
+    width: 100px;
+    height: 12.5vh;
+}
+
+
+#header45{
+    background-color: black;
+    width: 100px;
+    height: 12.5vh;
+}
+#header46{
+    background-color:white;
+    width: 100px;
+    height: 12.5vh;
+}
+
+#header47{
+    background-color: black;
+    width: 100px;
+    height: 12.5vh;
+}
+#header48{
+    background-color:white;
+    width: 100px;
+    height: 12.5vh;
+}
+
+#header49{
+    background-color: white;
+    width: 100px;
+    height: 12.5vh;
+}
+#header50{
+    background-color:black;
+    width: 100px;
+    height: 12.5vh;
+}
+
+#header51{
+    background-color: white;
+    width: 100px;
+    height: 12.5vh;
+}
+#header52{
+    background-color:black;
+    width: 100px;
+    height: 12.5vh;
+}
+
+
+#header53{
+    background-color: white;
+    width: 100px;
+    height: 12.5vh;
+}
+#header54{
+    background-color:black;
+    width: 100px;
+    height: 12.5vh;
+}
+
+#header55{
+    background-color: white;
+    width: 100px;
+    height: 12.5vh;
+}
+#header56{
+    background-color:black;
+    width: 100px;
+    height: 12.5vh;
+}
+
+#header57{
+    background-color: black;
+    width: 100px;
+    height: 12.5vh;
+}
+#header58{
+    background-color:white;
+    width: 100px;
+    height: 12.5vh;
+}
+
+#header59{
+    background-color: black;
+    width: 100px;
+    height: 12.5vh;
+}
+#header60{
+    background-color:white;
+    width: 100px;
+    height: 12.5vh;
+}
+
+
+#header61{
+    background-color: black;
+    width: 100px;
+    height: 12.5vh;
+}
+#header62{
+    background-color:white;
+    width: 100px;
+    height: 12.5vh;
+}
+
+#header63{
+    background-color: black;
+    width: 100px;
+    height: 12.5vh;
+}
+#header64{
+    background-color:white;
+    width: 100px;
+    height: 12.5vh;
+}
